@@ -58,12 +58,12 @@ export const Experience = () => {
     return (
     <div 
         name="Experience"
-        className='md:h-screen w-full bg-gradient-to-b from-gray-800 to-black'
+        className='w-full md:h-screen bg-gradient-to-b from-gray-800 to-black pb-12 pt-36'
     >
         <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white'>
-            <div className='pb-8'>
+            <div>
                 <h1 className='text-4xl font-bold inline border-b-4 border-gray-500 p-2'>Experience</h1>
-                <p className='py-9'>
+                <p className='pt-4'>
                     These are the technologies I am familiar with
                 </p>
             </div>
